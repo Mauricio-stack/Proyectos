@@ -1,0 +1,28 @@
+package com.utp.servidor.entidad;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
+@Data
+@AllArgsConstructor
+public class Cliente {
+	
+    private Long codigo;
+
+    
+    private String nombre;
+
+  
+    private String paterno;
+
+  
+    private String materno;
+
+  
+    private String dni;
+
+
+    private String sexo;
+
+    private String departamento;
+	
+}

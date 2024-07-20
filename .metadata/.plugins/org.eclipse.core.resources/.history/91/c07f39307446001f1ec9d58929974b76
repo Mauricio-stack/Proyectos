@@ -1,0 +1,30 @@
+package com.utp.servidor.render_app_api.entidad;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
+@Data
+@AllArgsConstructor
+public class Cliente {
+
+	   
+       private Integer codigo;
+
+    
+       private String nombre;
+
+     
+       private String paterno;
+
+     
+       private String materno;
+
+     
+       private String dni;
+
+   
+       private String sexo;
+
+       private String departamento;
+	
+}

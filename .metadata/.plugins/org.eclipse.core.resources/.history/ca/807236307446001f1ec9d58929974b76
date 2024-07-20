@@ -1,0 +1,11 @@
+package com.utp.servidor.render_app_api.entidad.controller;
+package com.utp.servidor.render_app_api.entidad
+
+import java.util.List;
+
+
+public class ClienteController {
+	
+	private static final List<Cliente> CUSTOMERS = List.of()
+
+}

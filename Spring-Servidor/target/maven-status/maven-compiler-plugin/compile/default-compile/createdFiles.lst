@@ -1,0 +1,3 @@
+com\utp\servidor\controller\ClienteController.class
+com\utp\servidor\entidad\Cliente.class
+com\utp\servidor\SpringServidorApplication.class
